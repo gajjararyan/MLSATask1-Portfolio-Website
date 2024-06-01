@@ -27088,16 +27088,16 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Aryan Gajjar",
-    title: "Programmer & Community Boy \uD83D\uDE0E",
+    title: "Tech,Community & Hackathon Enthusiast \uD83D\uDE0E ",
     email: "aryan1509@gmail.com",
-    gitHub: "https://github.com/GajjarAryan",
-    instagram: "aryan_gajjar.tech/",
-    linkedIn: "aryangajjar/",
+    gitHub: "https://github.com/gajjararyan",
+    instagram: "https://www.instagram.com/aryan_gajjar.tech/",
+    linkedIn: "https://www.linkedin.com/in/aryangajjar/",
     medium: "",
-    twitter: "aryan15092002",
-    youTube: ""
+    twitter: "microsoft",
+    youTube: "Code"
 };
-const primaryColor = "#4E567E";
+const primaryColor = "#03AED2";
 const secondaryColor = "#D2F1E4";
 const App = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27179,26 +27179,26 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * freely use on your site.
  */ var _4711267Jpg = require("../images/4711267.jpg");
 var _4711267JpgDefault = parcelHelpers.interopDefault(_4711267Jpg);
-const imageAltText = "abstract background";
+const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a \uD83D\uDC68‍\uD83C\uDF93Student at SSIU'25 | \uD83C\uDF31 Building Codie Guy Community | \uD83D\uDCBB GDSC Core Member | Postman Student Leader \uD83E\uDD29 | MLSA \uD83D\uDE07 | \uD83C\uDF96️ Trailblazer | \uD83C\uDFC6 of BLOG MANIA'22 \uD83E\uDD17 | Tech and Community Enthusiast \uD83D\uDE0E | Always Learner \uD83D\uDD25\uD83D\uDE80.";
+ */ const description = "A passionate programmer from India | \uD83D\uDC68‍\uD83C\uDF93Student at SSIU'25 | Aspiring DevRel \uD83E\uDD51 | \uD83C\uDF31 Building Codie Guy Community | \uD83D\uDCBB GDSC Core Member | Postman Student Leader \uD83E\uDD29 | β-MLSA \uD83D\uDE07 | GSSOC'23 | \uD83C\uDF96️ Trailblazer | \uD83C\uDFC6 of BLOG MANIA'22 \uD83E\uDD17 | Tech and Community Enthusiast \uD83D\uDE0E | Always Learner \uD83D\uDD25\uD83D\uDE80";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Full stack developer",
-    "Web Designer",
     "Tech Enthusiast",
-    "Designer",
-    "Community Enthusiast",
+    "Ful Stack Developer",
+    "Commnity Enthusiast",
+    "Web development",
+    "Hackathon Passionate",
     "Programmer", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am a student of Computer Engineering . Studying at SSIU. Looking \uD83D\uDC40 for Internship for (Devrel \uD83E\uDD51) if you have it's me \uD83D\uDE04. My Hobbies are Programming , Gaming , Thumbnail Designing, Blogging, Content Creator , Football etc. LOVE TO EXPLORE NEW THINGS in Tech and Community & LEARNER ALWAYS.. \uD83D\uDE80.";
+ */ const detailOrQuote = "I am a student of Computer Engineering, Studying at SSIU. I am also an Ex-DevRel Contributor at JSON Schema. My Hobbies are Programming , Gaming , Thumbnail Designing, Blogging, Content Creator , Football etc. LOVE TO EXPLORE NEW THINGS in Tech and Community & LEARNER ALWAYS..... \uD83D\uDE80";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28624,7 +28624,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _dsc80261Jpg = require("../images/DSC_8026(1).jpg");
 var _dsc80261JpgDefault = parcelHelpers.interopDefault(_dsc80261Jpg);
-const imageAltText = "GDSC Introduction Image";
+const imageAltText = "Aryan Gajjar";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
@@ -28759,24 +28759,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "My Project Portfolio \uD83D\uDE0E",
-        description: "I had made my this portfolio to learn and create some amazing Projects.",
-        url: "https://project-portfolio7.netlify.app/"
+        title: "Jeevan Cure",
+        description: "\uD83D\uDCA1 What comes to mind when you hear 'Jeevan Cure' Perhaps a solution or treatment aimed at restoring health? That's exactly what we're about! Jeevan Cure symbolizes a path toward a healthier life. \uD83C\uDF31",
+        url: "https://jeevancure.vercel.app/"
     },
     {
-        title: "Gaming Chair Page",
-        description: "My 2nd project to learn is Gaming Chair Page.",
-        url: "https://gaming-chair-page.vercel.app/"
+        title: "Portoflio for Project",
+        description: "A portfolio site for a project.",
+        url: "https://project-portfolio7.vercel.app/"
     },
     {
-        title: "My Linktree",
-        description: "My Linktree.",
-        url: "https://linktr.ee/aryangajjar"
-    },
-    {
-        title: "Byte Beats Website",
-        description: "My first website as a Hackathon Winner, Just Crazy Experience with my team.",
+        title: "ByteBeats",
+        description: "It was my First Hackathon Runner-up  Project. Collaborative environment for developer where they can collab and code online with chill background music.",
         url: "https://bytebeats.netlify.app/"
+    },
+    {
+        title: "Gaming-chair-page",
+        description: " A gaming chair page with a 3D chair model. ",
+        url: "https://gaming-chair-page.vercel.app/"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28788,10 +28788,10 @@ const Portfolio = ()=>{
                 style: {
                     textAlign: "center"
                 },
-                children: "Portfolio"
+                children: "Projects"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 62,
+                lineNumber: 61,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28816,12 +28816,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 65,
+                            lineNumber: 64,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 64,
+                        lineNumber: 63,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -28840,12 +28840,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 75,
+                                            lineNumber: 74,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 74,
+                                        lineNumber: 73,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28853,30 +28853,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 77,
+                                        lineNumber: 76,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 73,
+                                lineNumber: 72,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 71,
+                        lineNumber: 70,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 63,
+                lineNumber: 62,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 61,
+        lineNumber: 60,
         columnNumber: 5
     }, undefined);
 };
@@ -28890,7 +28890,7 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/design-desk.jpeg":"jSSP3"}],"jSSP3":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/design-desk.jpeg":"jSSP3","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"jSSP3":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "design-desk.df4cd0cf.jpeg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")

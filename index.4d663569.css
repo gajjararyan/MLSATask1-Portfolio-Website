@@ -1,10 +1,13 @@
 @import "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&family=Inconsolata:wght@200..900&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+TAS+Beginner:wght@400..700&family=Inconsolata:wght@200..900&display=swap";
 html, body {
   height: 100%;
   width: 100%;
   margin: 0;
   padding: 0;
-  font-family: Montserrat, sans-serif;
+  font-family: Inconsolata, sans-serif;
   overflow-x: hidden;
 }
 
@@ -40,18 +43,19 @@ section img.background {
 }
 
 h1 {
-  color: #f5ed11;
+  color: #fabc74;
+  text-shadow: 4px 3px #239f95;
+  width: 500px;
   margin: 0;
-  font-family: Nunito, sans-serif;
-  font-size: 5rem;
-  font-weight: 400;
-  line-height: .8;
+  font-family: caveat, serif;
+  font-size: 7rem;
+  font-weight: 270;
+  line-height: .7;
 }
 
 h2 {
-  color: #f5ed11;
-  margin: 0;
-  padding-top: 1rem;
+  color: #7469b6;
+  margin-top: 40px;
   font-size: 2rem;
   font-weight: 400;
 }
